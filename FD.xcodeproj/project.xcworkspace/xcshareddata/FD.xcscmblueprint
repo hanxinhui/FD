@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1b3e7b2d-a7cc-4e1c-94c9-89f9dca53068++6174",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1b3e7b2d-a7cc-4e1c-94c9-89f9dca53068++3916" : {
+
+    },
+    "1b3e7b2d-a7cc-4e1c-94c9-89f9dca53068++6174" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1b3e7b2d-a7cc-4e1c-94c9-89f9dca53068++3916" : 0,
+    "1b3e7b2d-a7cc-4e1c-94c9-89f9dca53068++6174" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "360F9E2C-8F82-4ADE-A7B7-ACFF77C7BEAC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1b3e7b2d-a7cc-4e1c-94c9-89f9dca53068++3916" : "%E5%AE%9D%E8%91%AB%E8%8A%A6\/",
+    "1b3e7b2d-a7cc-4e1c-94c9-89f9dca53068++6174" : "%E7%88%B1%E8%91%AB%E8%8A%A6\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FD",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FD.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.135\/baohulu-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1b3e7b2d-a7cc-4e1c-94c9-89f9dca53068++3916"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.135\/baohulu-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1b3e7b2d-a7cc-4e1c-94c9-89f9dca53068++6174"
+    }
+  ]
+}
